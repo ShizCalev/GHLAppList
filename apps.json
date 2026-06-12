@@ -76,6 +76,20 @@
       "folderName": "Quest64Recompiled",
       "gameIconUrl": "https://raw.githubusercontent.com/Rainchus/Quest64-Recomp/refs/heads/main/icons/512.png",
       "category": "Recompilations"
+    },
+    {
+      "name": "Bomberman 64",
+      "repository": "RevoSucks/BM64Recomp",
+      "folderName": "BM64Recompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/RevoSucks/BM64Recomp/refs/heads/master/icons/512.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Bomberman Hero",
+      "repository": "RevoSucks/BMHeroRecomp",
+      "folderName": "BMHeroRecompiled",
+      "appIconUrl": "https://github.com/RevoSucks/BMHeroRecomp/blob/master/icons/app.png",
+      "category": "Recompilations"
     }
   ],
 
